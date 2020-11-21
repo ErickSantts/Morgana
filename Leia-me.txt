@@ -1,0 +1,1 @@
+Para execultar a ferramenta precisa baixar as bibliotecas, basta execultar um npm install na pasta em que está localizada a extensão.

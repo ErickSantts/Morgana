@@ -1,0 +1,28 @@
+{
+  "name": "morgana1.1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asar": "^2.1.0",
+    "axios": "^0.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "get-package-info": "^1.0.0",
+    "natural": "^2.1.5",
+    "puppeteer": "^2.1.1",
+    "run-series": "^1.1.8",
+    "sanitize-filename": "^1.6.3",
+    "yauzl": "^2.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "description": ""
+}
