@@ -1,1 +1,6 @@
+Intruções de instalação da extensão
 Para execultar a ferramenta precisa baixar as bibliotecas, basta execultar um npm install na pasta em que está localizada a extensão.
+
+Videos de demonstração
+Link do video Original ->  https://youtu.be/P-1CRuPMtNI
+Link do video Editado -> https://youtu.be/W4sakwuSVX4
